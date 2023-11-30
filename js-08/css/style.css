@@ -1,0 +1,19 @@
+.oculto {
+  display: none;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.rojo {
+  color: red;
+}
+
+#primer-parrafo {
+  color: green;
+}
+
+p {
+  color: blue;
+}
